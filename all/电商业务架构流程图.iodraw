@@ -34,6 +34,9 @@
         <mxCell id="v5c9LeyBxuHbzpOxgM2_-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="3zW76zUc4abTS6v-kVaw-13" target="3zW76zUc4abTS6v-kVaw-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="v5c9LeyBxuHbzpOxgM2_-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="3zW76zUc4abTS6v-kVaw-13" target="v5c9LeyBxuHbzpOxgM2_-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="3zW76zUc4abTS6v-kVaw-13" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;font face=&quot;ui-sans-serif, system-ui, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji&quot;&gt;&lt;span style=&quot;font-size: 16px; background-color: rgb(252, 252, 252);&quot;&gt;AI服务&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=Comic Sans MS;" parent="1" vertex="1">
           <mxGeometry x="-350" y="290" width="90" height="60" as="geometry" />
         </mxCell>
@@ -57,9 +60,6 @@
         </mxCell>
         <mxCell id="3zW76zUc4abTS6v-kVaw-45" value="&lt;span style=&quot;font-family: ui-sans-serif, system-ui, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; font-size: 16px; text-align: start; background-color: rgb(252, 252, 252);&quot;&gt;异步任务&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Comic Sans MS;" parent="1" vertex="1">
           <mxGeometry x="-840" y="490" width="50" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="v5c9LeyBxuHbzpOxgM2_-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="3zW76zUc4abTS6v-kVaw-50" target="3zW76zUc4abTS6v-kVaw-13">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3zW76zUc4abTS6v-kVaw-50" value="&lt;span style=&quot;font-family: ui-sans-serif, system-ui, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; font-size: 16px; text-align: start; background-color: rgb(252, 252, 252);&quot;&gt;Celery Worker1&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=Comic Sans MS;" parent="1" vertex="1">
           <mxGeometry x="-455" y="500" width="70" height="60" as="geometry" />
@@ -95,6 +95,9 @@
           <mxGeometry x="-110" y="400" width="70" height="60" as="geometry" />
         </mxCell>
         <mxCell id="v5c9LeyBxuHbzpOxgM2_-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3zW76zUc4abTS6v-kVaw-17" target="3zW76zUc4abTS6v-kVaw-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="v5c9LeyBxuHbzpOxgM2_-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="3zW76zUc4abTS6v-kVaw-50" target="3zW76zUc4abTS6v-kVaw-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
