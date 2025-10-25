@@ -28,7 +28,7 @@
         <mxCell id="3zW76zUc4abTS6v-kVaw-11" value="&lt;span style=&quot;font-family: ui-sans-serif, system-ui, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; font-size: 16px; text-align: start; background-color: rgb(252, 252, 252);&quot;&gt;Django 应用服务器3&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=Comic Sans MS;" parent="1" vertex="1">
           <mxGeometry x="-370" y="190" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="v5c9LeyBxuHbzpOxgM2_-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="3zW76zUc4abTS6v-kVaw-13" target="3zW76zUc4abTS6v-kVaw-7">
+        <mxCell id="v5c9LeyBxuHbzpOxgM2_-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="3zW76zUc4abTS6v-kVaw-13" target="3zW76zUc4abTS6v-kVaw-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3zW76zUc4abTS6v-kVaw-13" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;font face=&quot;ui-sans-serif, system-ui, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji&quot;&gt;&lt;span style=&quot;font-size: 16px; background-color: rgb(252, 252, 252);&quot;&gt;AI服务&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=Comic Sans MS;" parent="1" vertex="1">
