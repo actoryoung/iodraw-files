@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0" version="24.7.17">
   <diagram id="piCVT0GnAEzMvJrsj3AD" name="Page-1">
-    <mxGraphModel dx="4011" dy="2476" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2403" dy="1769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -99,9 +99,6 @@
         </mxCell>
         <mxCell id="v5c9LeyBxuHbzpOxgM2_-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="3zW76zUc4abTS6v-kVaw-13" target="v5c9LeyBxuHbzpOxgM2_-29">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="v5c9LeyBxuHbzpOxgM2_-33" value="User (用户)&#xa;    |&#xa;    |--- Teacher (教师) [继承]&#xa;    |--- Student (学生) [继承]&#xa;    |&#xa;    |--- creates ---&gt; Course (课程)&#xa;    |                |&#xa;    |                |--- contains ---&gt; Question (题目)&#xa;    |                |--- has ---&gt; Examination (考试)&#xa;    |&#xa;    |--- takes ---&gt; Examination (考试)&#xa;                    |&#xa;                    |--- based_on ---&gt; ExamPaper (试卷)&#xa;                    |--- generates ---&gt; AnswerSheet (答题卡)&#xa;                                        |&#xa;                                        |--- contains ---&gt; Answer (答案)&#xa;                                                           |&#xa;                                                           |--- for ---&gt; Question (题目)" style="text;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="160" y="-290" width="370" height="280" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
