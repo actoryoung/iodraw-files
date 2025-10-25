@@ -41,7 +41,7 @@
           <mxGeometry x="-840" y="390" width="50" height="80" as="geometry" />
         </mxCell>
         <mxCell id="3zW76zUc4abTS6v-kVaw-16" value="&lt;span style=&quot;font-family: ui-sans-serif, system-ui, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; font-size: 16px; text-align: start; background-color: rgb(252, 252, 252);&quot;&gt;MySQL&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=Comic Sans MS;" parent="1" vertex="1">
-          <mxGeometry x="-745" y="400" width="70" height="60" as="geometry" />
+          <mxGeometry x="-770" y="400" width="70" height="60" as="geometry" />
         </mxCell>
         <mxCell id="v5c9LeyBxuHbzpOxgM2_-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3zW76zUc4abTS6v-kVaw-17" target="3zW76zUc4abTS6v-kVaw-50">
           <mxGeometry relative="1" as="geometry" />
@@ -82,7 +82,7 @@
         <mxCell id="v5c9LeyBxuHbzpOxgM2_-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="3zW76zUc4abTS6v-kVaw-9" target="3zW76zUc4abTS6v-kVaw-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="v5c9LeyBxuHbzpOxgM2_-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="3zW76zUc4abTS6v-kVaw-9" target="3zW76zUc4abTS6v-kVaw-16">
+        <mxCell id="v5c9LeyBxuHbzpOxgM2_-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="3zW76zUc4abTS6v-kVaw-9" target="3zW76zUc4abTS6v-kVaw-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="v5c9LeyBxuHbzpOxgM2_-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="3zW76zUc4abTS6v-kVaw-5" target="3zW76zUc4abTS6v-kVaw-9">
@@ -92,7 +92,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="v5c9LeyBxuHbzpOxgM2_-29" value="&lt;span style=&quot;font-family: ui-sans-serif, system-ui, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; font-size: 16px; text-align: start; background-color: rgb(252, 252, 252);&quot;&gt;MySQL&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=Comic Sans MS;" vertex="1" parent="1">
-          <mxGeometry x="-735" y="410" width="70" height="60" as="geometry" />
+          <mxGeometry x="-130" y="410" width="70" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
