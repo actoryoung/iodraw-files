@@ -64,33 +64,6 @@
         <mxCell id="3zW76zUc4abTS6v-kVaw-24" value="优惠码" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=Comic Sans MS;" parent="1" vertex="1">
           <mxGeometry x="-580" y="390" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3zW76zUc4abTS6v-kVaw-25" value="电子围栏" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=Comic Sans MS;" parent="1" vertex="1">
-          <mxGeometry x="-500" y="280" width="60" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="3zW76zUc4abTS6v-kVaw-26" value="运费" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=Comic Sans MS;" parent="1" vertex="1">
-          <mxGeometry x="-500" y="340" width="60" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="3zW76zUc4abTS6v-kVaw-27" value="时效履约" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;direction=south;fontFamily=Comic Sans MS;" parent="1" vertex="1">
-          <mxGeometry x="-500" y="400" width="60" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="3zW76zUc4abTS6v-kVaw-28" value="发&lt;div&gt;票&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=Comic Sans MS;" parent="1" vertex="1">
-          <mxGeometry x="-430" y="280" width="40" height="180" as="geometry" />
-        </mxCell>
-        <mxCell id="3zW76zUc4abTS6v-kVaw-29" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#9673a6;fontFamily=Comic Sans MS;" parent="1" vertex="1">
-          <mxGeometry x="-370" y="280" width="70" height="180" as="geometry" />
-        </mxCell>
-        <mxCell id="3zW76zUc4abTS6v-kVaw-30" value="用户" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=Comic Sans MS;" parent="1" vertex="1">
-          <mxGeometry x="-370" y="280" width="70" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="3zW76zUc4abTS6v-kVaw-31" value="会员系统" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=Comic Sans MS;" parent="1" vertex="1">
-          <mxGeometry x="-365" y="330" width="60" height="45" as="geometry" />
-        </mxCell>
-        <mxCell id="3zW76zUc4abTS6v-kVaw-32" value="passport" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=Comic Sans MS;" parent="1" vertex="1">
-          <mxGeometry x="-365" y="400" width="60" height="45" as="geometry" />
-        </mxCell>
-        <mxCell id="3zW76zUc4abTS6v-kVaw-33" value="风&lt;div&gt;控&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;fontFamily=Comic Sans MS;" parent="1" vertex="1">
-          <mxGeometry x="-290" y="280" width="30" height="180" as="geometry" />
-        </mxCell>
         <mxCell id="3zW76zUc4abTS6v-kVaw-34" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#9673a6;fontFamily=Comic Sans MS;" parent="1" vertex="1">
           <mxGeometry x="-250" y="280" width="50" height="180" as="geometry" />
         </mxCell>
@@ -201,6 +174,9 @@
         </mxCell>
         <mxCell id="3zW76zUc4abTS6v-kVaw-70" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;客&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;户&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;端&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Comic Sans MS;" parent="1" vertex="1">
           <mxGeometry x="-840" y="-10" width="50" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="v5c9LeyBxuHbzpOxgM2_-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="3zW76zUc4abTS6v-kVaw-39" target="3zW76zUc4abTS6v-kVaw-39">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
